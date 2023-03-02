@@ -10,3 +10,5 @@ Transforms texts into speeches.
 Extracts elements from a epub file.
 * bs4  
 Extracts data formatted in HTML.
+* PyPDF2  
+Extracts texts from a pdf file.
